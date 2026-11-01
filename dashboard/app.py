@@ -158,7 +158,7 @@ sort_by = st.sidebar.selectbox(
 
 # Header & Navigation Tabs
 st.markdown('<div class="main-title">Scholarship Intelligence Engine</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-title">EDXSO AI Evaluation Platform · Automated Primary Source Verification</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-title">Automated Primary Source Verification Platform</div>', unsafe_allow_html=True)
 
 metrics = repo.get_metrics()
 

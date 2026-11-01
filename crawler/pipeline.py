@@ -450,7 +450,7 @@ class ScholarshipCrawlerPipeline:
                 provider_type="GOVERNMENT",
                 official_source_url=source_url,
                 application_url=app_url,
-                benefit=None, # Leave null if not explicitly in card text to prevent hallucinations
+                benefit=None, # Leave null if not explicitly present in source card text
                 eligibility=eligibility,
                 academic_requirements=None,
                 education_levels=edu_levels,

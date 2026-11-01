@@ -58,7 +58,7 @@ CREATE TABLE IF NOT EXISTS evidence (
     snapshot_path TEXT,
     content_hash TEXT,
     fetched_at TEXT NOT NULL,
-    extraction_method TEXT, -- RULE_BASED, TABLE, PDF_EXTRACTION, AI_PARSED
+    extraction_method TEXT, -- RULE_BASED, TABLE_PARSING, PDF_EXTRACTION, DIRECT_DOM
     FOREIGN KEY(scholarship_id) REFERENCES scholarships(id)
 );
 
