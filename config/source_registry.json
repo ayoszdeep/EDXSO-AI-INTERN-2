@@ -1,0 +1,121 @@
+[
+  {
+    "domain": "scholarships.gov.in",
+    "source_type": "GOVERNMENT",
+    "official": true,
+    "provider": "National Scholarship Portal (Government of India)",
+    "root_url": "https://scholarships.gov.in"
+  },
+  {
+    "domain": "ugc.gov.in",
+    "source_type": "GOVERNMENT",
+    "official": true,
+    "provider": "University Grants Commission",
+    "root_url": "https://www.ugc.gov.in"
+  },
+  {
+    "domain": "he.uk.gov.in",
+    "source_type": "GOVERNMENT",
+    "official": true,
+    "provider": "Government of Uttarakhand Higher Education",
+    "root_url": "https://he.uk.gov.in"
+  },
+  {
+    "domain": "aicte-india.org",
+    "source_type": "GOVERNMENT",
+    "official": true,
+    "provider": "All India Council for Technical Education (AICTE)",
+    "root_url": "https://www.aicte-india.org"
+  },
+  {
+    "domain": "dbtindia.gov.in",
+    "source_type": "GOVERNMENT",
+    "official": true,
+    "provider": "Department of Biotechnology (DBT), GoI",
+    "root_url": "https://dbtindia.gov.in"
+  },
+  {
+    "domain": "dst.gov.in",
+    "source_type": "GOVERNMENT",
+    "official": true,
+    "provider": "Department of Science and Technology (DST), GoI",
+    "root_url": "https://dst.gov.in"
+  },
+  {
+    "domain": "academics.iitd.ac.in",
+    "source_type": "UNIVERSITY",
+    "official": true,
+    "provider": "IIT Delhi",
+    "root_url": "https://academics.iitd.ac.in"
+  },
+  {
+    "domain": "alumni.iitd.ac.in",
+    "source_type": "UNIVERSITY",
+    "official": true,
+    "provider": "IIT Delhi Alumni Association",
+    "root_url": "https://alumni.iitd.ac.in"
+  },
+  {
+    "domain": "iitb.ac.in",
+    "source_type": "UNIVERSITY",
+    "official": true,
+    "provider": "IIT Bombay",
+    "root_url": "https://www.iitb.ac.in"
+  },
+  {
+    "domain": "iisc.ac.in",
+    "source_type": "UNIVERSITY",
+    "official": true,
+    "provider": "Indian Institute of Science Bangalore",
+    "root_url": "https://iisc.ac.in"
+  },
+  {
+    "domain": "isical.ac.in",
+    "source_type": "UNIVERSITY",
+    "official": true,
+    "provider": "Indian Statistical Institute",
+    "root_url": "https://www.isical.ac.in"
+  },
+  {
+    "domain": "scholarships.reliancefoundation.org",
+    "source_type": "CORPORATE_CSR",
+    "official": true,
+    "provider": "Reliance Foundation",
+    "root_url": "https://scholarships.reliancefoundation.org"
+  },
+  {
+    "domain": "tatatrusts.org",
+    "source_type": "CORPORATE_CSR",
+    "official": true,
+    "provider": "Tata Trusts",
+    "root_url": "https://www.tatatrusts.org"
+  },
+  {
+    "domain": "azimpremjifoundation.org",
+    "source_type": "NGO_TRUST",
+    "official": true,
+    "provider": "Azim Premji Foundation",
+    "root_url": "https://azimpremjifoundation.org"
+  },
+  {
+    "domain": "kcfoundation.org",
+    "source_type": "NGO_TRUST",
+    "official": true,
+    "provider": "K. C. Mahindra Education Trust",
+    "root_url": "https://www.kcfoundation.org"
+  },
+  {
+    "domain": "buddy4study.com",
+    "source_type": "AGGREGATOR",
+    "official": false,
+    "provider": "Buddy4Study (Aggregator / Discovery only)",
+    "root_url": "https://www.buddy4study.com"
+  },
+  {
+    "domain": "shiksha.com",
+    "source_type": "AGGREGATOR",
+    "official": false,
+    "provider": "Shiksha (Aggregator / Discovery only)",
+    "root_url": "https://www.shiksha.com"
+  }
+]
